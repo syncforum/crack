@@ -1,1 +1,8 @@
-{"title":"Thành công","message":"Bạn đã Reset Key thành công","type":"success","reload":false,"error":"no","status":"online"}
+{
+  "title": "Thành công",
+  "message": "Bạn đã Reset Key thành công",
+  "type": "success",
+  "reload": false,
+  "error": "no",
+  "status": "online"
+}
