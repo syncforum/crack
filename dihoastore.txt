@@ -4,5 +4,6 @@
   "type": "success",
   "reload": false,
   "error": "no",
-  "status": "online"
+  "status": "online",
+  "version": "1.0.0"
 }
