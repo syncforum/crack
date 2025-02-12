@@ -1,9 +1,1 @@
-{
-  "title": "Thành công",
-  "message": "Bạn đã Reset Key thành công",
-  "type": "success",
-  "reload": false,
-  "error": "no",
-  "status": "online",
-  "version": "1.0.0"
-}
+{"license":"null","plugin":"null","error":"no","status":"offline"}
